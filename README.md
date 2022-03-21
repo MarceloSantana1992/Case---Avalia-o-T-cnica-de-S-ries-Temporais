@@ -29,7 +29,7 @@ Com relação à existência de tendências, o teste modificado de Mann-Kendall 
 
 Para o teste de correlação cruzada, fez-se o branqueamento das séries históricas envolvidas correlação cruzada mostrou que há uma correlação entre passageiros que entram e passageiros que saem com lag de 10 meses. Outras correlações apresentaram-se complexas, podendo ser meramente ocasionais.
 
-**5) e 6) Modelos peditivos **
+**5) e 6) Modelos preditivos **
 
 Com relação à predição de cenários para a série histórica contínua de passageiros entrantes, optou-se por obter estimativas através do Modelo ARIMA. Na avaliação ded resultados, deve-se levar em conta os efeitos da pandemia, visto que foi detectada forte queda nos anos de 2020 e 2021. Nesse sentido, 
 optou-se por estimar os valores para os 6 meses posteriores. Para os 6 meses posteriores, observa-se que a tendência é de aumento na quantidade de passageiros em relação ao anon anterior. 
